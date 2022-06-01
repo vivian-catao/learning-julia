@@ -17,7 +17,7 @@ end
     println("A soma é: $soma") 
 
 
-if  (soma == n)
+if  (soma == num)
     println("O numero $(n) é um número de Armstrong")
 
 else 
